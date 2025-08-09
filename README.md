@@ -4,7 +4,7 @@
 - **Khaled Ghalwash** — Full Stack Developer, UX Designer & Machine Learning Specialist  
 - **Rawan Mohamed** — Machine Learning Engineer  
 - **Ahmed Sadek** — Machine Learning Engineer  
-- **Omar Mohamed** — Frontend Developer & Animator  
+- **Omar Mohamed** —  Audio & Video Editor 
 - **Youssef Diaa** — Audio & Video Editor  
 
 
