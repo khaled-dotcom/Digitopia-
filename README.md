@@ -1,4 +1,12 @@
 # Design End - Modern & Responsive Front-End Template
+## Team Members
+
+- **Khaled Ghalwash** — Full Stack Developer, UX Designer & Machine Learning Specialist  
+- **Rawan Mohamed** — Machine Learning Engineer  
+- **Ahmed Sadek** — Machine Learning Engineer  
+- **Omar Mohamed** — Frontend Developer & Animator  
+- **Youssef Diaa** — Audio & Video Editor  
+
 
 ![Design Preview](https://github.com/AHMAD-JX/DesignEnd-Website-Template/blob/53fe66c2a5bd3f46bff8ab538515dff81a4600cc/img/1.gif)
 
