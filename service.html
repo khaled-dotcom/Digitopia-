@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Services - AI Tools</title>
 
     <!-- Main Styles -->
@@ -13,25 +12,49 @@
     <link rel="stylesheet" href="css/plugins/swiper.min.css">
     <link rel="stylesheet" href="css/plugins/fancybox.min.css">
 
-    <!-- Custom Pharos Colors -->
+    <!-- Spline background styling -->
     <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow-x: hidden;
+        }
+
+        /* Fullscreen Spline background */
+        #spline-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+        #spline-bg iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+            display: block;
+        }
+
+        /* Foreground content (keep your theme colors) */
         body {
-            background-color: #0b1d3a; /* Deep Pharos Blue */
+            background-color: transparent;
             color: #ffffff;
             font-family: Arial, sans-serif;
         }
         h1, h2, h3, h4, h5 {
-            color: #f5d142; /* Pharos Gold */
+            color: #f5d142;
         }
         p {
             color: #d0d4da;
         }
         .mil-banner {
-            background: linear-gradient(135deg, #0b1d3a 0%, #102a52 100%);
+            background: transparent; /* Let background show through */
             padding: 60px 0;
         }
         .mil-card {
-            background-color: #102a52;
+            background-color: rgba(16, 42, 82, 0.85);
             border: 1px solid #f5d142;
             border-radius: 10px;
             padding: 20px;
@@ -40,7 +63,7 @@
             text-decoration: none;
         }
         .mil-card:hover {
-            background-color: #143666;
+            background-color: rgba(20, 54, 102, 0.9);
             transform: translateY(-5px);
         }
         .mil-card-content h5 {
@@ -51,10 +74,13 @@
         }
     </style>
 </head>
-
 <body>
-    <div class="mil-wrapper">
+    <!-- Spline Background -->
+    <div id="spline-bg">
+        <iframe src="https://my.spline.design/100followers-d3tAmZ6v5XMoKfLxSNsl0jv6/" frameborder="0"></iframe>
+    </div>
 
+    <div class="mil-wrapper">
         <!-- Frame/Header -->
         <div class="mil-frame">
             <div class="mil-frame-top">
@@ -77,7 +103,7 @@
             <section class="mil-p-120-30">
                 <div class="container">
                     <div class="row">
-                        <!-- Tool 1 -->
+                        <!-- Repeat your tool cards -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-1" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -86,7 +112,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 2 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-2" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -95,7 +120,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 3 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-3" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -104,7 +128,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 4 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-4" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -113,7 +136,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 5 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-5" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -122,7 +144,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 6 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-6" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -131,7 +152,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 7 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-7" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -140,7 +160,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 8 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-8" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -149,7 +168,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 9 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-9" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -158,7 +176,6 @@
                                 </div>
                             </a>
                         </div>
-                        <!-- Tool 10 -->
                         <div class="col-md-4 mil-mb-30">
                             <a href="https://your-link-10" target="_blank" class="mil-card mil-hover">
                                 <div class="mil-card-content">
@@ -179,4 +196,3 @@
     <script src="js/main.js"></script>
 </body>
 </html>
-
