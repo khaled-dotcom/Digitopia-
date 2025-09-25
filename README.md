@@ -116,5 +116,5 @@ Inspired by the Lighthouse of Alexandria, Pharos Wisdom’s design focuses on cl
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-repo/pharos-wisdom.git
-cd pharos-wisdom
+git clone https://github.com/your-repo/khaled_ghalwash.git
+cd khaled_gawalsh
