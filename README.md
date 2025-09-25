@@ -1,4 +1,4 @@
-##Graduation Project
+## Graduation Project 
 ## Team Members
 
 - **Khaled Ghalwash** — Full Stack Developer, UX Designer & Machine Learning Specialist , embeded systems  
@@ -14,14 +14,11 @@
 
 # EmpowerWork — AI Tools for Inclusive Employment
 
-[![Status](https://img.shields.io/badge/status-prototype-green)](https://github.com/yourusername/EmpowerWork)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-
 **EmpowerWork** is a graduate project and prototype platform that uses AI and assistive technologies to bridge the employment gap for people with disabilities. The platform provides tools for inclusive hiring, workplace accessibility, real-time sign-language support, text-to-speech, bias-reducing recruitment filters, and training resources.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 People with disabilities face barriers to employment worldwide. EmpowerWork aims to enable inclusive hiring and workplace participation by combining AI, assistive hardware, and humane HR practices. The project is intended as a proof-of-concept and a replicable model that organizations can adopt.
 
