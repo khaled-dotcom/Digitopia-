@@ -1,4 +1,4 @@
-#Graduation Project
+##Graduation Project
 ## Team Members
 
 - **Khaled Ghalwash** — Full Stack Developer, UX Designer & Machine Learning Specialist , embeded systems  
@@ -36,16 +36,16 @@ Key components:
 
 ## EmpowerWork: Bridging the Employment Gap for People with Disabilities
 
-## 🌍 Introduction
+##  Introduction
 In many societies, people with disabilities still face considerable barriers to employment. Despite progress in inclusion and human rights, communication gaps, accessibility challenges, and unconscious bias continue to limit opportunities.  
 
 **EmpowerWork** — our graduation project — proposes an **AI-powered inclusive employment platform**. Its mission is to ensure people with disabilities can access the same opportunities as others by breaking down communication, accessibility, and hiring barriers.
 
-## 🎯 Vision
+##  Vision
 > Empowerment through equal opportunity.  
 We believe every individual deserves the right to work, earn a living, and build a meaningful career — regardless of physical, sensory, or cognitive differences.
 
-## ⚡ Core Features
+##  Core Features
 - Real-time sign language interpretation  
 - AI-driven HR filters to reduce bias in candidate selection  
 - Text-to-speech and screen readers for visually impaired users  
@@ -53,7 +53,7 @@ We believe every individual deserves the right to work, earn a living, and build
 - Hardware integration with assistive devices  
 - Inclusive HR policies and training modules for employers  
 
-## ❗ Problem Statement
+##  Problem Statement
 People with disabilities face challenges such as:  
 - Physical inaccessibility  
 - Communication barriers  
@@ -61,20 +61,20 @@ People with disabilities face challenges such as:
 
 This often leads to underemployment, unemployment, and economic inequality.
 
-## 💡 Motivation
+##  Motivation
 Our motivation is rooted in the belief that **inclusion drives innovation**. Inclusive workplaces not only provide equal opportunities but also lead to:  
 - Higher creativity  
 - Improved employee satisfaction  
 - Greater organizational productivity  
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Build an inclusive company model that employs people with disabilities  
 - Develop AI-driven assistive technologies  
 - Create awareness among employers about inclusive hiring  
 - Provide skill development and training programs  
 - Measure impact (employment rates, satisfaction, productivity)  
 
-## ✅ Expected Solutions
+## Expected Solutions
 - Accessible and secure company structure (onsite + remote)  
 - AI-powered recruitment platform to minimize bias  
 - Assistive technology integrations (captioning, voice, sign-language tools)  
